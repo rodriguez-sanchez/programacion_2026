@@ -1,7 +1,7 @@
-# Hello, World
+# ¡Bienvenido!
 
 ## Descripción
-Este código fuente imprime "Hola, Mundo".
+ Este repositorio tiene como objetivo recopilar mis actividades de la asignatura de Programación Enero - Mayo 2026 en mi programa de estudio universitario. 
 
 ## Contacto
 - **C. Rodríguez Sánchez Gerardo Israel** (Estudiante de la LIC)  
